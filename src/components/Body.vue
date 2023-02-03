@@ -105,9 +105,9 @@
                                 </h4>
                             </div>
                         </div>
-                        <div>
-                            <div>
-                                <video src="../assets/all03.mp4" class="clip"
+                        <div class="col-lg-6 hero-img aos-init aos-animate" data-aos="zoom-out" data-aos-delay="200">
+                            <div class="imagesAll">
+                                <video data-aos="fade-down" data-aos-delay="300" src="../assets/all03.mp4" class="clip"
                                     typeof="video/mp4" loop></video>
                             </div>
                         </div>
@@ -143,7 +143,7 @@
             </div>
         </div>
     </div>
-    <video src="../assets/all03.mp4" class="clip" typeof="video/mp4" loop></video>
+
     <!-- <Footer /> -->
 </template>
 <script>
@@ -186,6 +186,9 @@ export default {
 @media only screen and (max-width: 767px) {
     .bannerNav {
         display: none;
+    }
+    .mli{
+        display:block
     }
 
     .body-page {
