@@ -105,8 +105,8 @@
                                 </h4>
                             </div>
                         </div>
-                        <div class="col-lg-6 aos-init aos-animate" data-aos-delay="200">
-                            <div class="imagesAll">
+                        <div>
+                            <div>
                                 <video src="../assets/all03.mp4" class="clip"
                                     typeof="video/mp4" loop></video>
                             </div>
