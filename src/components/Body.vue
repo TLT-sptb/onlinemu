@@ -238,7 +238,7 @@ export default {
 }
 .pTexte {
     margin-right: 500px;
-    height: 550px;
+    height: 620px;
 }
 
 .info {
