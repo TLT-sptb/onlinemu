@@ -105,9 +105,9 @@
                                 </h4>
                             </div>
                         </div>
-                        <div class="col-lg-6 hero-img aos-init aos-animate" data-aos="zoom-out" data-aos-delay="200">
+                        <div class="col-lg-6 aos-init aos-animate" data-aos-delay="200">
                             <div class="imagesAll">
-                                <video data-aos="fade-down" data-aos-delay="300" src="../assets/all03.mp4" class="clip"
+                                <video src="../assets/all03.mp4" class="clip"
                                     typeof="video/mp4" loop></video>
                             </div>
                         </div>
