@@ -7,7 +7,7 @@
         </div>
         <div class="body-page">
             <ul class="myCard cards row dropdown">
-                <li class="mli col dropdown" id="options" data-mdb-toggle="dropdown" aria-expanded="false">
+                <li class="mli dropdown" id="options" data-mdb-toggle="dropdown" aria-expanded="false">
                     <img id="style" class="static swords" src="../assets/style-img.png">
                     <img id="style" class="active swords" src="../assets/style.gif">
                     <ul class="listOptions cards dropdown-menu">
@@ -26,7 +26,7 @@
                         <li class="dropdown-item"><b>17.000 NPoints un.</b></li>
                     </ul>
                 </li>
-                <li class="mli col dropdown" id="options2" data-mdb-toggle="dropdown" aria-expanded="false">
+                <li class="mli dropdown" id="options2" data-mdb-toggle="dropdown" aria-expanded="false">
                     <img id="war" class="static swords" src="../assets/war-img.png">
                     <img id="war" class="active swords" src="../assets/war.gif">
                     <ul class="listOptions cards dropdown-menu" aria-labelledby="dropdownMenuButton">
