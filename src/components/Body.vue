@@ -143,7 +143,7 @@
             </div>
         </div>
     </div>
-
+    <video src="../assets/all03.mp4" class="clip" typeof="video/mp4" loop></video>
     <!-- <Footer /> -->
 </template>
 <script>
