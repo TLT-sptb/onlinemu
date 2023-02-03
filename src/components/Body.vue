@@ -71,7 +71,7 @@
                     <div class="col-lg-6 hero-img aos-init aos-animate" data-aos="zoom-out" data-aos-delay="200">
                         <!-- <img data-aos="fade-right" data-aos-delay="400" src="../assets/style-img.png"
                             style="width=50px; height=50px;" class="img-fluid" alt=""> -->
-                        <video src="../assets/all04.mp4" class="clip" typeof="video/mp4" muted poster="imagem.jpg" loop></video>
+                        <video src="../assets/all04.mp4" class="clip" typeof="video/mp4" loop muted poster="../assets/muted01.jpg"></video>
                     </div>
                     <div class="col-lg-6 d-flex flex-column justify-content-center">
                         <h3 id="about" data-aos="fade-down" class="aos-init aos-animate"><b>Sobre-nós</b></h3>
@@ -107,10 +107,8 @@
                         </div>
                         <div class="col-lg-6 hero-img aos-init aos-animate" data-aos="zoom-out" data-aos-delay="200">
                             <div class="imagesAll">
-                                <video data-aos="fade-down" data-aos-delay="300"
-                                muted poster="imagem.jpg"
-                                src="../assets/all03.mp4" class="clip"
-                                    typeof="video/mp4" loop></video>
+                                <video  data-aos="fade-down" data-aos-delay="300" src="../assets/all03.mp4" class="clip"
+                                typeof="video/mp4" muted poster="../assets/muted02.jpg"></video>
                             </div>
                         </div>
                     </div>
@@ -188,9 +186,6 @@ export default {
 @media only screen and (max-width: 767px) {
     .bannerNav {
         display: none;
-    }
-    .mli{
-        display:block
     }
 
     .body-page {
